@@ -1,9 +1,9 @@
 # Hi there, I'm Yerova Arusu 👋 
 
 ## 🌱 About Me
-- 🔭 I’m currently working on [Botanic Pledge](https://github.com/YerovaArusu/botanicpledge), a project aimed at promoting eco-conscious practices through technology.
-- 🌱 Passionate about coding, sustainability, and the intersection of tech and nature.
-- 💬 Ask me about **Python**, **JavaScript**, or how to build impactful open-source projects.
+- 🔭 I’m currently working on [Botanic Pledge](https://github.com/YerovaArusu/botanicpledge),
+- 🌱 Passionate about coding, Games and Anime
+- 💬 Ask me about **Python**, **Java** and **Kotlin**
 
 ---
 
