@@ -3,7 +3,7 @@
 ## 🌱 About Me
 - 🔭 I’m currently working on [Botanic Pledge](https://github.com/YerovaArusu/botanicpledge),
 - 🌱 Passionate about coding, Games and Anime
-- 💬 Ask me about **Python**, **Java** and **Kotlin**
+- 💬 Ask me about **Python**, **Java**, **C#** and **Kotlin**
 
 ---
 
@@ -14,6 +14,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40" alt="Java" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="40" height="40" alt="Kotlin" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="Git" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="40" height="40" alt="C#" />
 </p>
 
 ---
@@ -28,10 +29,10 @@
 
 ## 🚀 Projects
 ### [Botanic Pledge](https://github.com/YerovaArusu/botanicpledge)
-A project dedicated to fostering environmental responsibility through a tech-driven approach. 🌎💡
+A Minecraft Mod
 
 ### [Other Projects](https://github.com/YerovaArusu?tab=repositories)
-Check out more of my repositories for interesting tools and solutions.
+Check out more of my repositories
 
 ---
 
